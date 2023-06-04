@@ -36,11 +36,11 @@ Please make sure you have the necessary dependencies installed before running th
 
 <div>
   <h3>Game Interface</h3>
-  <img src="https://github.com/Sagi314/Hangman/assets/42316417/ff0932cd-710d-4be2-a97e-66cc80d73839" alt="image" width="50%">
+  <img src="https://github.com/Sagi314/Hangman/assets/42316417/53a9d00c-c0f7-4ebe-b8bd-cb82620d9f72" alt="image" width="50%">
   
   <h3>Correct Guess</h3>
-  <img src="https://github.com/Sagi314/Hangman/assets/42316417/4be5ee36-8f41-44c0-8116-c03031457689" alt="image" width="50%">
+  <img src="https://github.com/Sagi314/Hangman/assets/42316417/532657a5-3e46-437a-8983-dda9b6ceb133" alt="image" width="50%">
   
   <h3>Incorrect Guess</h3>
-  <img src="https://github.com/Sagi314/Hangman/assets/42316417/b39c7c01-d295-43da-8112-d92189f0e164" alt="image" width="50%">
+  <img src="https://github.com/Sagi314/Hangman/assets/42316417/c46d71c7-d03b-41bc-bd6b-09a2f769c184" alt="image" width="50%">
 </div>
